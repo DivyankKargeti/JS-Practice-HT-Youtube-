@@ -15,7 +15,7 @@ File/Folder Number | Name
 06 | Logical Conditionals
 07 | Ternary Operator
 08 | Switch Statements
-09 | Coersion and falsy values
+09 | Coercion and falsy values
 10 | Functions Basics
 11 | Functions on variables
 12 | Code Hoisting
