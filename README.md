@@ -26,7 +26,7 @@ File/Folder Number | Name
 17 | Objects
 18 | Methods and Objects
 19 | For Loop
-20 | While and Do while Loops
+20 | While Loop and Do while Loop
 21 | doreach Loop
 22 | DOM (Document Object Model)
 
