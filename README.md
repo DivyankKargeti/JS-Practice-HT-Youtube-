@@ -34,6 +34,6 @@ File/Folder Number | Name
 25 | Closure in js
 26 | Closure
 27 | Closure Example
-28 | DOM (Document Object Model)
+28 | [Project] DOM Project
 
 
