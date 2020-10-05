@@ -29,5 +29,11 @@ File/Folder Number | Name
 20 | While Loop and Do while Loop
 21 | doreach Loop
 22 | DOM (Document Object Model)
+23 | Self exe anonymous func
+24 | Lexical Scoping
+25 | DOM (Document Object Model)
+26 | DOM (Document Object Model)
+27 | DOM (Document Object Model)
+28 | DOM (Document Object Model)
 
 
