@@ -31,7 +31,7 @@ File/Folder Number | Name
 22 | DOM (Document Object Model)
 23 | Self exe anonymous func
 24 | Lexical Scoping
-25 | DOM (Document Object Model)
+25 | Closure in js
 26 | DOM (Document Object Model)
 27 | DOM (Document Object Model)
 28 | DOM (Document Object Model)
