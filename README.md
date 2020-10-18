@@ -35,5 +35,8 @@ File/Folder Number | Name
 26 | Closure
 27 | Closure Example
 28 | [Project] DOM Project
-
+28 | scope in JS
+28 | Template Literals in JS
+28 | Maps in JS
+28 | Destructure and Destructuring in JS
 
