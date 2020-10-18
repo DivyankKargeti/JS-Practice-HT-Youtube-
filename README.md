@@ -32,11 +32,11 @@ File/Folder Number | Name
 23 | Self exe anonymous func
 24 | Lexical Scoping
 25 | Closure in js
-26 | Closure
 27 | Closure Example
 28 | [Project] DOM Project
-28 | scope in JS
-28 | Template Literals in JS
-28 | Maps in JS
-28 | Destructure and Destructuring in JS
+29 | scope in JS
+30 | Template Literals in JS
+31 | Maps in JS
+32 | Destructure and Destructuring in JS
+33 | Spread and Rest operators in JS
 
