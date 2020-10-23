@@ -42,5 +42,4 @@ File/Folder Number | Name
 34 | Classes in JS
 35 | EventLoop in JS
 
-// *****************************END*****************************
 
