@@ -39,4 +39,7 @@ File/Folder Number | Name
 31 | Maps in JS
 32 | Destructure and Destructuring in JS
 33 | Spread and Rest operators in JS
+34 | Maps in JS
+35 | Maps in JS
+31 | Maps in JS
 
