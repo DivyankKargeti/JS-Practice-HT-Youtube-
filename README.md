@@ -41,5 +41,5 @@ File/Folder Number | Name
 33 | Spread and Rest operators in JS
 34 | Maps in JS
 35 | Maps in JS
-31 | Maps in JS
+36 | Maps in JS
 
